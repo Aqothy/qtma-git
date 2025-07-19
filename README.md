@@ -1,4 +1,4 @@
-# Git Essentials for Junior Engineers
+# Git Essentials
 
 ## Table of Contents
 
