@@ -14,7 +14,6 @@
 
 ## What is Git?
 asdlfkjsa
-asdlfj
 
 Git is a distributed version control system created by Linus Torvalds in 2005. It:
 
