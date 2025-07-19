@@ -8,7 +8,7 @@
 4. [Branching & Merging](#branching--merging)
 5. [Remote Repositories](#remote-repositories)
 6. [Utilities & Troubleshooting](#utilities--troubleshooting)
-7. [Quick Reference](#quick-reference)
+7. [Tools](#tools)
 
 ---
 
@@ -223,3 +223,7 @@ Some other ones that I didn't get time to cover but you can explore yourself sin
 - Git reflog
 - Git bisect
 
+## Tools
+
+- [Lazygit](https://github.com/jesseduffield/lazygit)
+- Vscode Git ui
